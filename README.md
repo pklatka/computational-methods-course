@@ -4,8 +4,8 @@ This repository consists of solutions for computational methods course at AGH US
 
 ## Short descriptions of given tasks
 
-- [lab1](https://github.com/pklatka/computational-methods-course/tree/main/lab1): computer arithmetic, floating point numbers, errors
-- [lab2](https://github.com/pklatka/computational-methods-course/tree/main/lab2): linear equations, Gauss-Jordan elimination, LU decomposition, least squares method, determining currents in a circuit
-- [lab3](https://github.com/pklatka/computational-methods-course/tree/main/lab2): root finding methods: bisection, Newton, secant.
+- [lab1](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2001): computer arithmetic, floating point numbers, errors
+- [lab2](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2002): linear equations, Gauss-Jordan elimination, LU decomposition, least squares method, determining currents in a circuit
+- [lab3](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2003): root finding methods: bisection, Newton, secant.
 
 If this repository helped you, don't forget to star ⭐️ or fork🍴.
