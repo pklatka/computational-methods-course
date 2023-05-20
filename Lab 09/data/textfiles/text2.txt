@@ -1,0 +1,6 @@
+To make an HTTP request in JavaScript, you can use the fetch function. 
+
+1. Use the fetch function with the URL you want to request.
+2. Handle the response using promises.
+3. Parse the response as needed e.g., using response.json for JSON data.
+4. Handle any errors that occur during the request.
