@@ -13,5 +13,8 @@ This repository consists of solutions for computational methods course at AGH US
 - [lab7](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2007): spectral decomposition
 - [lab8](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2008): PageRank algorithm
 - [lab9](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2009): OCR using Fourier transform
+- [lab10](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2010): DFT, FFT
+- [lab11](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2011): QR decomposition
+- [lab12](https://github.com/pklatka/computational-methods-course/tree/main/Lab%2012): numerical integration
 
 If this repository helped you, don't forget to star ⭐️ or fork🍴.
